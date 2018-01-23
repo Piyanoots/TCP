@@ -1,0 +1,9 @@
+1. compute the factorial
+-get number input from keyboad 
+-send number to server
+-server compute the factorial and send result back to client
+-------------------------------------------------------------------
+2. send image from client to server
+-change name of image file that will be send
+-server create folder 'image_from_client'
+-server receive image and store in 'image_from_client/image.png'
